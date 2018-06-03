@@ -1,0 +1,11 @@
+-- insert into user(id,username,name,age,balance) values(1,'user1','张三',20,100.00);
+-- insert into user(id,username,name,age,balance) values(2,'user2','李四',20,100.00);
+-- insert into user(id,username,name,age,balance) values(3,'user3','王五',20,100.00);
+-- insert into user(id,username,name,age,balance) values(4,'user4','马六',20,100.00);
+insert into user(id,x1,y1,x2,y2,x3,y3,x4,y4,x5,y5) values(1,50,160,100,200,150,160,200,260,250,310);
+insert into user(id,x1,y1,x2,y2,x3,y3,x4,y4,x5,y5) values(2,50,180,100,220,150,170,200,210,250,330);
+insert into user(id,x1,y1,x2,y2,x3,y3,x4,y4,x5,y5) values(3,50,200,100,230,150,180,200,220,250,360);
+insert into user(id,x1,y1,x2,y2,x3,y3,x4,y4,x5,y5) values(4,50,220,100,240,150,190,200,260,250,230);
+insert into user(id,x1,y1,x2,y2,x3,y3,x4,y4,x5,y5) values(5,50,240,100,250,150,150,200,280,250,120);
+insert into user(id,x1,y1,x2,y2,x3,y3,x4,y4,x5,y5) values(6,50,260,100,260,150,140,200,160,250,190);
+insert into user(id,x1,y1,x2,y2,x3,y3,x4,y4,x5,y5) values(7,50,280,100,270,150,130,200,220,250,180);
